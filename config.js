@@ -14,7 +14,7 @@ module.exports = {
       host: "lavalink.devin-dev.xyz",
       port: 443,
       password: "lava123",
-      //secure: true //- Optional | Default: false
+      secure: true //- Optional | Default: false
     },
   ], //Lavalink servers
   embedColor: "BLUE", //Color of the embeds
